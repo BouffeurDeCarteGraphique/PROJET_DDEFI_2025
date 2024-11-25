@@ -1,2 +1,4 @@
 Syllabus du projet a mettre
-i
+Mettre l'objectif du projet/ le sujet 
+
+Faire le titanic Kaggle
